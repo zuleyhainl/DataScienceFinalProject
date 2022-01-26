@@ -5,7 +5,7 @@
 - https://www.kaggle.com/nikdavis/steam-store-games (in datasets folder I called steam_genres)
 - https://www.kaggle.com/rankirsh/evolution-of-top-games-on-twitch (there is two datasets file)
 - https://covid19.who.int/table <br />
-- https://www.kaggle.com/niduttnb/you-kinda-look-sus-among-us-tips-and-tricks/data (Burada toplamda 25 farklı oyuncunun oyun verileri ile veri setlerine ulaşıyoruz. Ancak bazı veri setlerindeki oyun verileri tutarsız/eksik olduğu için bu veri setlerinden 100 oyun oynayan kullanıcıların (1,2,10,12,18) verilerini aldık.) <br />
+- https://www.kaggle.com/niduttnb/you-kinda-look-sus-among-us-tips-and-tricks/data (Here, we reach the datasets with the game data of 25 different players in total. However, since the game data in some datasets are inconsistent/incomplete, we took the data of users (1,2,10,12,18) who played 100 games from these datasets.) <br />
 We scrape the other datas from steamcharts.com <br />
 All of the datasets I've used can be found in datasets folder <br />
 video link: https://youtu.be/wB412KKJWE0
