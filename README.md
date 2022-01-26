@@ -6,4 +6,5 @@
 - https://www.kaggle.com/rankirsh/evolution-of-top-games-on-twitch (there is two datasets file)
 - https://covid19.who.int/table <br />
 I scrape the other datas from steamcharts.com <br />
-All of the datasets I've used can be found in datasets folder
+All of the datasets I've used can be found in datasets folder <br />
+video link: https://youtu.be/wB412KKJWE0
